@@ -1,6 +1,6 @@
 # Olá, Eu sou Gabriel Alves ✋
 ### Sobre Mim
-Olá! Bem-Vindo ao meu perfil do gitHub, sou estudante de programação em busca de novos desafios<br> e aprendizado contínuo.
+Olá! Bem-Vindo ao meu perfil do github, sou estudante de programação em busca de novos desafios<br> e aprendizado contínuo.
 Atualmente, estou focado em Backend.
 
 ## Tecnologias que Estudo
