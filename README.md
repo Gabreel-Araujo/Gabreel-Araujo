@@ -35,5 +35,5 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor focado em Backend, sempr
 
 ### 🌎 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielaraujoalves/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alves-1a79b818b/)
 
